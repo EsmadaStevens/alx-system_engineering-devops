@@ -9,5 +9,5 @@ mv location/file name location/directory: move a file from one directory to anot
 rm /path/path/path/*: to delete all files in the directory
 rmdir: deletes empty directories
 cd - changes directory to previous one
-ls -al . .. /bin: Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+ls -al .. . /bin: Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 
