@@ -5,4 +5,5 @@ ls -l: displays the contents of the directory in long format
 ls -la: displays all contents of the parent directory even those beginning with a .
 ls -l -a : display all contents in long format and is displayed numerically
 mkdir location name of directory: when you want to make a directory in another location
+mv location/file name location/directory: move a file from one directory to another
 
