@@ -11,4 +11,4 @@ rmdir: deletes empty directories
 cd - changes directory to previous one
 ls -al .. . /bin: Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 file /path/name of file: prints the type of the file
-ln -s /directory ~/ name of file: to create a symbolic link  
+ln -s /directory  name of file: to create a symbolic link  
