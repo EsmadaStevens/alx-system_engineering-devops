@@ -1,1 +1,1 @@
-pwd prints the absolute pathway of the current working directory
+ls is used to display the contents of the current directory
