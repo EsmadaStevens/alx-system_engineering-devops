@@ -1,1 +1,3 @@
-ls is used to display the contents of the current directory
+pwd: prints the absolute pathway of the currents working directory
+ls: displays all the contents of the currect working directory
+cd: changes the working directory back to the home directory
