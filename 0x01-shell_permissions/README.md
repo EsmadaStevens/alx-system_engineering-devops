@@ -1,2 +1,2 @@
 Using the su - command to switch the current user to betty
-Using the whoami command to print the name of the current user
+Using the whoami or the id -u -n command to print the name of the current user
