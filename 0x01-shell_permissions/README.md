@@ -10,4 +10,5 @@ Using chmod 007 to remove permissions from the onwer and group
 Using 753 to add and remove permissions
 Using chmod --reference=file-name name-file to set permissions to the refrenced file
 Using chmod a+X * to change execution permissions of all subdirectories
-Using mkdir file-name; chmod permissions file-name to create a directory and add permissions to it in one line
+Using mkdir file-name; chmod permissions file-name or mkdir -mpermisions file-name to create a directory and add permissions to it in one line
+
