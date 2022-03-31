@@ -7,3 +7,4 @@ Using the chmod 744 to add execute permissions to a file
 Using chmod ug+x,o+r to change pe rmisions of a file
 Using chmod a+x file-name to add execution permissions to everyone
 Using chmod 007 to remove permissions from the onwer and group
+Using 753 to add and remove permissions
