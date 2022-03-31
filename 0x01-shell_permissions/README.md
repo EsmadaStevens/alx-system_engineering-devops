@@ -12,3 +12,4 @@ Using chmod --reference=file-name name-file to set permissions to the refrenced 
 Using chmod a+X * to change execution permissions of all subdirectories
 Using mkdir file-name; chmod permissions file-name or mkdir -mpermisions file-name to create a directory and add permissions to it in one line
 
+Using chgrp new old to change the group
