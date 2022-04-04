@@ -3,3 +3,4 @@ Write a script that displays a confused smiley by using  backslash"
 Display the content of file using cat
 Display the content of two files
 Display the last 10 lines
+Display the last 10 lines
