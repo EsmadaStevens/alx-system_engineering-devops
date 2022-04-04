@@ -8,3 +8,4 @@ Display the first 10 lines
 a script that displays the 3rd line
 Write a shell script that creates a file
 a script that writes inot a file
+a script that duplicates the last line of the file 
