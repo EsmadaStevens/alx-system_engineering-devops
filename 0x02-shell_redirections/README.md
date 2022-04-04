@@ -5,3 +5,4 @@ Display the content of two files
 Display the last 10 lines
 Display the last 10 lines
 Display the first 10 lines
+a script that displays the 3rd line
