@@ -11,3 +11,4 @@ a script that writes inot a file
 a script that duplicates the last line of the file 
 a script that deletes regualr files wih .js
 a script that counts the number of directories and sub-directories
+a script that displays the 10 newest files in the current directory
