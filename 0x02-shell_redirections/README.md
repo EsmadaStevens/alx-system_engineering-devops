@@ -4,3 +4,4 @@ Display the content of file using cat
 Display the content of two files
 Display the last 10 lines
 Display the last 10 lines
+Display the first 10 lines
