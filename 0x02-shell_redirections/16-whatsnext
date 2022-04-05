@@ -1,0 +1,3 @@
+#!/bin/bash
+grep -A 3 /etc/passwd
+Display lines containing the pattern “root” and 3 lines after them
