@@ -17,3 +17,4 @@ Display lines containing the pattern “root”
 Display the number of lines
 Display lines containing the pattern “root” and 3 lines after t
 hem
+Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
